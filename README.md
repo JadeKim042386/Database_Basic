@@ -12,8 +12,11 @@ share: "true"
 - [데이터베이스 툴](./Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%ED%88%B4.md)
 - [데이터 자료형](./Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9E%90%EB%A3%8C%ED%98%95.md)
 - [테이블 생성](./Database/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%83%9D%EC%84%B1.md)
+- [Key의 종류](./Database/Key%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
 
 #### 실습
 
 - [회원 테이블 생성](./Database/%ED%9A%8C%EC%9B%90%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%83%9D%EC%84%B1.md)
+- [CRUD](./Database/CRUD.md)
+	- [INSERT](./Database/INSERT.md)
 
