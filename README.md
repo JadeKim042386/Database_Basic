@@ -18,5 +18,8 @@ share: "true"
 
 - [회원 테이블 생성](./Database/%ED%9A%8C%EC%9B%90%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%83%9D%EC%84%B1.md)
 - [CRUD](./Database/CRUD.md)
+	- [SELECT](./SELECT.md)
 	- [INSERT](./Database/INSERT.md)
+	- [UPDATE](./UPDATE.md)
+	- [DELETE](./DELETE.md)
 
