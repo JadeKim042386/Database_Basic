@@ -14,7 +14,7 @@ share: "true"
 - [테이블 생성](./Database/%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%83%9D%EC%84%B1.md)
 - [Key의 종류](./Database/Key%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
 
-#### 실습
+#### 개념 및 실습
 
 - [회원 테이블 생성](./Database/%ED%9A%8C%EC%9B%90%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%83%9D%EC%84%B1.md)
 - [CRUD](./Database/CRUD.md)
@@ -22,4 +22,6 @@ share: "true"
 	- [INSERT](./Database/INSERT.md)
 	- [UPDATE](./UPDATE.md)
 	- [DELETE](./DELETE.md)
+- [alias와 *(애스터리스크)](./Database/alias%EC%99%80%20*(%EC%95%A0%EC%8A%A4%ED%84%B0%EB%A6%AC%EC%8A%A4%ED%81%AC).md)
+- [JOIN](./Database/JOIN.md)
 
