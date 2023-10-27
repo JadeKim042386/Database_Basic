@@ -24,4 +24,7 @@ share: "true"
 	- [DELETE](./DELETE.md)
 - [alias와 *(애스터리스크)](./Database/alias%EC%99%80%20*(%EC%95%A0%EC%8A%A4%ED%84%B0%EB%A6%AC%EC%8A%A4%ED%81%AC).md)
 - [JOIN](./Database/JOIN.md)
+- [DBMS 내장 함수](./Database/DBMS%20%EB%82%B4%EC%9E%A5%20%ED%95%A8%EC%88%98.md)
+- [데이터 표시 포맷](./Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%91%9C%EC%8B%9C%20%ED%8F%AC%EB%A7%B7.md)
+- [페이징 처리](./Database/%ED%8E%98%EC%9D%B4%EC%A7%95%20%EC%B2%98%EB%A6%AC.md)
 
