@@ -27,4 +27,7 @@ share: "true"
 - [DBMS 내장 함수](./Database/DBMS%20%EB%82%B4%EC%9E%A5%20%ED%95%A8%EC%88%98.md)
 - [데이터 표시 포맷](./Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%91%9C%EC%8B%9C%20%ED%8F%AC%EB%A7%B7.md)
 - [페이징 처리](./Database/%ED%8E%98%EC%9D%B4%EC%A7%95%20%EC%B2%98%EB%A6%AC.md)
+- [View 테이블](./Database/View%20%ED%85%8C%EC%9D%B4%EB%B8%94.md)
+- [함수](./Database/%ED%95%A8%EC%88%98.md)
+- [프로시저](./Database/%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80.md)
 
