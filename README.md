@@ -30,4 +30,4 @@ share: "true"
 - [View 테이블](./Database/View%20%ED%85%8C%EC%9D%B4%EB%B8%94.md)
 - [함수](./Database/%ED%95%A8%EC%88%98.md)
 - [프로시저](./Database/%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80.md)
-
+- [트리거](./Database/%ED%8A%B8%EB%A6%AC%EA%B1%B0.md)
