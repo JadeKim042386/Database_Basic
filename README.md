@@ -31,9 +31,11 @@ share: "true"
 - [함수](./Database/%ED%95%A8%EC%88%98.md)
 - [프로시저](./Database/%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80.md)
 - [트리거](./Database/%ED%8A%B8%EB%A6%AC%EA%B1%B0.md)
+- [locale 설정](./Database/locale%20%EC%84%A4%EC%A0%95.md)
 
 #### 영화정보를 통한 데이터 실습
 
 - [데이터 사용 준비](./Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%82%AC%EC%9A%A9%20%EC%A4%80%EB%B9%84.md)
 - [쿼리 실습 1](./Database/%EC%BF%BC%EB%A6%AC%20%EC%8B%A4%EC%8A%B5%201.md)
 - [쿼리 실습 2](./Database/%EC%BF%BC%EB%A6%AC%20%EC%8B%A4%EC%8A%B5%202.md)
+- [쿼리 실습 3](./%EC%BF%BC%EB%A6%AC%20%EC%8B%A4%EC%8A%B5%203.md)
