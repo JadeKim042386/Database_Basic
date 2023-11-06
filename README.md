@@ -43,3 +43,7 @@ share: "true"
 - [쿼리 실습 5](./Database/%EC%BF%BC%EB%A6%AC%20%EC%8B%A4%EC%8A%B5%205.md)
 - [쿼리 실습 6](./Database/%EC%BF%BC%EB%A6%AC%20%EC%8B%A4%EC%8A%B5%206.md)
 
+
+#### 데이터 모델링
+
+- [데이터 모델링](./Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EB%A7%81.md)
