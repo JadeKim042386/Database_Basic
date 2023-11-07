@@ -47,3 +47,4 @@ share: "true"
 #### 데이터 모델링
 
 - [데이터 모델링](./Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EB%A7%81.md)
+- [데이터 모델링 표기법](./Database/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%ED%91%9C%EA%B8%B0%EB%B2%95.md)
